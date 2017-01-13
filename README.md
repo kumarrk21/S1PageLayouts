@@ -1,12 +1,10 @@
 Mobile only Page Layouts (View Only)
 ===============================
-This component can be used to add invitees to an event in Salesforce1. Follow the below steps to use this in your org
+This component can be used to create mobile specific record detail pages, dynamically. Salesforce1 mobile doesn't support mobile specific page layouts (yet). So, if you have a lot of fields in your object, it becomes diffcult for the user to view the most required information in a single glance. Quick actions work great in providing mobile specific page layouts but is supported only for record create or edit.
 
-1. Install the Lookup component first from **[here](https://github.com/kumarrk21/LookupComponent)**
-2. Then install this component in your org by clicking the 'Deploy to Salesforce' button below
-3. Once installed successfully, create a lightning component quick action on the event object; choose 'c:S1EventsInviteComponent' as the Lightning Component for the quick action (Check **[here](https://developer.salesforce.com/docs/atlas.en-us.salesforce1.meta/salesforce1/actions_about.htm)** for more info on quick actions)
-4. Then place this quick action in your event page layout(s), under Salesforce1/Lightning Experience actions
-5. Launch Salesforce1, navigate to an event record, launch this quick action to add invitees
+This component allows to dynamically display key fields of a record in Salesforce1 app through either a quick action or URL field. Please read this blog for more information on how to use this component in your org.
+
+Click on the 'Deploy to Salesforce' button to deploy this in your Sandbox org.
 
 <a href="https://githubsfdeploy.herokuapp.com?">
   <img alt="Deploy to Salesforce"
