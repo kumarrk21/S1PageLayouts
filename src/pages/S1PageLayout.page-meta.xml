@@ -4,6 +4,7 @@
     <availableInTouch>true</availableInTouch>
     <confirmationTokenRequired>false</confirmationTokenRequired>
     <label>S1PageLayout</label>
+    <!--
     <packageVersions>
         <majorNumber>4</majorNumber>
         <minorNumber>18</minorNumber>
@@ -16,7 +17,7 @@
     </packageVersions>
     <packageVersions>
         <majorNumber>1</majorNumber>
-        <minorNumber>12</minorNumber>
+        <minorNumber>15</minorNumber>
         <namespace>sf_chttr_apps</namespace>
     </packageVersions>
     <packageVersions>
@@ -24,4 +25,5 @@
         <minorNumber>7</minorNumber>
         <namespace>sf_com_apps</namespace>
     </packageVersions>
+-->
 </ApexPage>

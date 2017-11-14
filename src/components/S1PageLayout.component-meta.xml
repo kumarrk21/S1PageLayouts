@@ -2,6 +2,7 @@
 <ApexComponent xmlns="http://soap.sforce.com/2006/04/metadata">
     <apiVersion>34.0</apiVersion>
     <label>S1PageLayout</label>
+    <!--
     <packageVersions>
         <majorNumber>4</majorNumber>
         <minorNumber>18</minorNumber>
@@ -22,4 +23,5 @@
         <minorNumber>7</minorNumber>
         <namespace>sf_com_apps</namespace>
     </packageVersions>
+-->
 </ApexComponent>
